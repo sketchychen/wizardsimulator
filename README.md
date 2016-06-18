@@ -11,3 +11,8 @@ YOU'RE A WIZARD, ______
   - training dummy with funky wizard hat
 - learn how to vive
 - find assets like dragons and fire textures and... stuff
+
+- setting
+  - medieval for now
+  - maybe other options later
+  - orange tupee for dummy
